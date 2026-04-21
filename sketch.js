@@ -2,11 +2,11 @@ let img;
 
 function preload(){
 
-  img=loadImage('assets/sun_1.jpg');
+  img=loadImage('assets/sunflower.png');
 }
 
 function setup(){
-  createCanvas(1000,1000);
+  createCanvas(600,600);
 }
 
 function draw(){
